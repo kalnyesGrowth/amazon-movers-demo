@@ -1,0 +1,220 @@
+- generic [active] [ref=f1e1]:
+  - button "Cambiar idioma" [ref=f1e2] [cursor=pointer]: ESPAÑOL
+  - navigation [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "Amazon Movers Stafford, Virginia" [ref=f1e5] [cursor=pointer]:
+        - /url: "#top"
+        - text: Amazon Movers
+        - generic [ref=f1e6]: Stafford, Virginia
+      - generic [ref=f1e7]:
+        - link "(703) 525-7510" [ref=f1e8] [cursor=pointer]:
+          - /url: tel:+17035257510
+        - link "Free Estimate" [ref=f1e9] [cursor=pointer]:
+          - /url: "#quote"
+  - banner [ref=f1e10]:
+    - generic [ref=f1e13]:
+      - generic [ref=f1e14]: Family owned in Stafford since 1980
+      - heading "Amazon Movers" [level=1] [ref=f1e15]
+      - paragraph [ref=f1e17]: The same family has been moving Stafford homes for 46 years. You are not handing your life to a franchise crew you have never met. You get the people whose name is on the truck.
+      - link "Get My Free Estimate" [ref=f1e18] [cursor=pointer]:
+        - /url: "#quote"
+      - generic [ref=f1e19]:
+        - generic [ref=f1e20]: Open 7 days, 7am to 7pm
+        - generic [ref=f1e23]: Local & long distance
+        - generic [ref=f1e26]: Hablamos español
+  - generic [ref=f1e32]:
+    - generic [ref=f1e33]:
+      - heading "What is my move going to cost?" [level=3] [ref=f1e34]
+      - paragraph [ref=f1e35]: Tell us where you are going. We answer with a real number, in writing, free.
+    - generic [ref=f1e36]:
+      - generic [ref=f1e37]: Moving from
+      - textbox "Moving from" [ref=f1e38]:
+        - /placeholder: Stafford, VA
+    - generic [ref=f1e39]:
+      - generic [ref=f1e40]: Moving to
+      - textbox "Moving to" [ref=f1e41]:
+        - /placeholder: Arlington, VA
+    - button "Get Estimate" [ref=f1e43] [cursor=pointer]
+  - generic [ref=f1e45]:
+    - generic [ref=f1e46]: What we do
+    - heading "Everything that goes in the truck, and the mess left behind" [level=2] [ref=f1e47]
+    - generic [ref=f1e48]:
+      - article [ref=f1e49]:
+        - heading "Local Moving" [level=3] [ref=f1e53]
+        - paragraph [ref=f1e54]: Houses, apartments and condos across Stafford, Fredericksburg and Northern Virginia. Loaded carefully, unloaded where you want it.
+        - generic [ref=f1e55]: Free Estimate
+      - article [ref=f1e56]:
+        - heading "Long Distance" [level=3] [ref=f1e62]
+        - paragraph [ref=f1e63]: Moving out of state? We have taken families as far as Connecticut and handled every mile ourselves.
+        - generic [ref=f1e64]: Free Estimate
+      - article [ref=f1e65]:
+        - heading "Packing & Supplies" [level=3] [ref=f1e69]
+        - paragraph [ref=f1e70]: We wrap it in quilted padding and pack it so it arrives the way it left. Or we drop the boxes and you pack at your own pace.
+        - generic [ref=f1e71]: Free Estimate
+      - article [ref=f1e72]:
+        - heading "Move-Out Cleaning" [level=3] [ref=f1e76]
+        - paragraph [ref=f1e77]: Most movers hand you the keys and leave you the mess. We clean the place after the truck is loaded so you get your deposit back.
+        - generic [ref=f1e78]: Free Estimate
+      - article [ref=f1e79]:
+        - heading "Office & Commercial" [level=3] [ref=f1e84]
+        - paragraph [ref=f1e85]: Desks, files, servers and the whole floor. We work evenings and weekends so your business does not lose a day.
+        - generic [ref=f1e86]: Free Estimate
+      - article [ref=f1e87]:
+        - heading "Storage" [level=3] [ref=f1e91]
+        - paragraph [ref=f1e92]: Closing dates that do not line up? We hold your things safe until the new place is ready for them.
+        - generic [ref=f1e93]: Free Estimate
+  - generic [ref=f1e96]:
+    - generic [ref=f1e97]: Why us and not them
+    - heading "The big companies have 400 locations. We have one, and we have had it since 1980." [level=2] [ref=f1e98]
+    - paragraph [ref=f1e99]: A national chain sends whoever is on the schedule that morning. You do not know their name and neither do they know your house. That is the trade you make for a big logo. Here is what you get instead.
+    - generic [ref=f1e100]:
+      - generic [ref=f1e101]:
+        - generic [ref=f1e102]: "46"
+        - heading "Years, same family" [level=3] [ref=f1e103]
+        - paragraph [ref=f1e104]: Opened in July 1980 and run by the same family ever since. Longer than most of the national brands advertising in this county have existed.
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]: "7"
+        - heading "Days a week, 7am to 7pm" [level=3] [ref=f1e107]
+        - paragraph [ref=f1e108]: Including Sunday. Moves do not politely happen on weekdays, and neither do we.
+      - generic [ref=f1e109]:
+        - generic [ref=f1e110]: "2"
+        - heading "Languages, one crew" [level=3] [ref=f1e111]
+        - paragraph [ref=f1e112]: English and Spanish, from the first phone call to the last box. Nobody translating for you, nobody guessing what you meant.
+  - generic [ref=f1e115]:
+    - generic [ref=f1e116]: How it works
+    - heading "Three steps, no surprises on moving day" [level=2] [ref=f1e117]
+    - generic [ref=f1e118]:
+      - generic [ref=f1e119]:
+        - heading "You tell us what you have" [level=3] [ref=f1e120]
+        - paragraph [ref=f1e121]: Call or send the form. How many rooms, how many stairs, where it is going. Takes about five minutes.
+      - generic [ref=f1e122]:
+        - heading "We put a number in writing" [level=3] [ref=f1e123]
+        - paragraph [ref=f1e124]: A free written estimate before we touch a single box. The number we give you is the number you pay. No hidden fees at the truck.
+      - generic [ref=f1e125]:
+        - heading "We show up and do it" [level=3] [ref=f1e126]
+        - paragraph [ref=f1e127]: Padded, wrapped, loaded and placed where you want it. Ask us and we will clean the old place before we go.
+  - generic [ref=f1e129]:
+    - generic [ref=f1e130]: What customers say
+    - generic [ref=f1e131]:
+      - generic [ref=f1e132]: "4.8"
+      - generic [ref=f1e133]: ★★★★★
+      - generic [ref=f1e134]: on Google
+    - generic [ref=f1e135]:
+      - article [ref=f1e136]:
+        - paragraph [ref=f1e137]: “A world class moving service, definitely recommend! Incredible team, and incredibly knowledgeable on what they do. They are very careful and do a well job at packing my things. Unbelievably fast, and hardworking, and can carefully fit many items into a truck.”
+        - generic [ref=f1e138]: Miranda Small
+        - generic [ref=f1e139]: ★★★★★ · Google
+      - article [ref=f1e140]:
+        - paragraph [ref=f1e141]: “Amazon Movers did a fantastic job in helping us move. They were very thorough with their planning and execution of the work and made this process seamless to us. Their cleaning service was impeccable as well and very thorough.”
+        - generic [ref=f1e142]: George Rahy
+        - generic [ref=f1e143]: ★★★★★ · Google
+      - article [ref=f1e144]:
+        - paragraph [ref=f1e145]: “Did my move to Connecticut, very reliable, works fast & I could keep a peace of mind knowing they knew what they were doing. Awesome team.”
+        - generic [ref=f1e146]: Joel Delgado
+        - generic [ref=f1e147]: ★★★★★ · Google
+    - link "Leave us a Google review" [ref=f1e149] [cursor=pointer]:
+      - /url: https://search.google.com/local/writereview?placeid=ChIJkcslDWjytokRIdDWebkZ_iw
+  - generic [ref=f1e151]:
+    - generic [ref=f1e152]: Where we go
+    - heading "Based in Stafford. Working across Virginia, DC and Maryland." [level=2] [ref=f1e153]
+    - list [ref=f1e154]:
+      - listitem [ref=f1e155]: Stafford
+      - listitem [ref=f1e156]: Garrisonville
+      - listitem [ref=f1e157]: Aquia Harbour
+      - listitem [ref=f1e158]: Fredericksburg
+      - listitem [ref=f1e159]: Woodbridge
+      - listitem [ref=f1e160]: Dumfries
+      - listitem [ref=f1e161]: Quantico
+      - listitem [ref=f1e162]: Manassas
+      - listitem [ref=f1e163]: Alexandria
+      - listitem [ref=f1e164]: Arlington
+      - listitem [ref=f1e165]: Springfield
+      - listitem [ref=f1e166]: Fairfax
+      - listitem [ref=f1e167]: Washington, DC
+      - listitem [ref=f1e168]: Hyattsville, MD
+  - generic [ref=f1e170]:
+    - generic [ref=f1e171]:
+      - generic [ref=f1e172]: Hours & location
+      - heading "Open every day of the week" [level=2] [ref=f1e173]
+      - list [ref=f1e174]:
+        - listitem [ref=f1e175]:
+          - generic [ref=f1e176]: Monday
+          - generic [ref=f1e177]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e178]:
+          - generic [ref=f1e179]: Tuesday
+          - generic [ref=f1e180]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e181]:
+          - generic [ref=f1e182]: WednesdayTODAY
+          - generic [ref=f1e183]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e184]:
+          - generic [ref=f1e185]: Thursday
+          - generic [ref=f1e186]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e187]:
+          - generic [ref=f1e188]: Friday
+          - generic [ref=f1e189]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e190]:
+          - generic [ref=f1e191]: Saturday
+          - generic [ref=f1e192]: 7:00 AM – 7:00 PM
+        - listitem [ref=f1e193]:
+          - generic [ref=f1e194]: Sunday
+          - generic [ref=f1e195]: 7:00 AM – 7:00 PM
+      - paragraph [ref=f1e196]:
+        - strong [ref=f1e197]: Amazon Movers
+        - text: 1843 Garrisonville Rd, Stafford, VA 22556
+        - link "(703) 525-7510" [ref=f1e198] [cursor=pointer]:
+          - /url: tel:+17035257510
+    - generic [ref=f1e199]:
+      - iframe [ref=f1e201]
+      - paragraph [ref=f1e202]:
+        - link "Open in Google Maps →" [ref=f1e203] [cursor=pointer]:
+          - /url: https://www.google.com/maps/place/Amazon+Movers/@38.5023997,-77.5084549,17z
+  - generic [ref=f1e205]:
+    - generic [ref=f1e206]: Questions
+    - heading "The things people ask before they book" [level=2] [ref=f1e207]
+    - generic [ref=f1e208]:
+      - group [ref=f1e209]:
+        - generic "How much is this going to cost me? −" [ref=f1e210] [cursor=pointer]
+        - paragraph [ref=f1e211]: "Every move is priced on what it actually involves: how far, how much, and how hard it is to get in and out. We give you a free written estimate before we touch a single box, and the number we give you is the number you pay."
+      - group [ref=f1e212]:
+        - generic "Do you move out of state? +" [ref=f1e213] [cursor=pointer]
+      - group [ref=f1e214]:
+        - generic "¿Hablan español? +" [ref=f1e215] [cursor=pointer]
+      - group [ref=f1e216]:
+        - generic "Do you really clean afterward? +" [ref=f1e217] [cursor=pointer]
+      - group [ref=f1e218]:
+        - generic "How far ahead should I book? +" [ref=f1e219] [cursor=pointer]
+      - group [ref=f1e220]:
+        - generic "Do you have insurance? +" [ref=f1e221] [cursor=pointer]
+  - generic [ref=f1e223]:
+    - heading "Tell us where you are going." [level=2] [ref=f1e224]
+    - paragraph [ref=f1e225]: Free written estimate, no obligation, and a real person on the phone. Same family, same trucks, since 1980.
+    - generic [ref=f1e226]:
+      - link "(703) 525-7510" [ref=f1e227] [cursor=pointer]:
+        - /url: tel:+17035257510
+      - link "Request Estimate" [ref=f1e228] [cursor=pointer]:
+        - /url: "#quote"
+  - contentinfo [ref=f1e229]:
+    - generic [ref=f1e230]:
+      - generic [ref=f1e231]:
+        - generic [ref=f1e232]:
+          - generic [ref=f1e233]: Amazon Movers
+          - paragraph [ref=f1e234]: Family owned and operated in Stafford, Virginia since 1980. Local moving, long distance, packing, storage and move-out cleaning.
+        - generic [ref=f1e235]:
+          - heading "Services" [level=4] [ref=f1e236]
+          - list [ref=f1e237]:
+            - listitem [ref=f1e238]: Local Moving
+            - listitem [ref=f1e239]: Long Distance
+            - listitem [ref=f1e240]: Packing & Supplies
+            - listitem [ref=f1e241]: Move-Out Cleaning
+            - listitem [ref=f1e242]: Office & Commercial
+            - listitem [ref=f1e243]: Storage
+        - generic [ref=f1e244]:
+          - heading "Contact" [level=4] [ref=f1e245]
+          - list [ref=f1e246]:
+            - listitem [ref=f1e247]:
+              - link "(703) 525-7510" [ref=f1e248] [cursor=pointer]:
+                - /url: tel:+17035257510
+            - listitem [ref=f1e249]: 1843 Garrisonville Rd
+            - listitem [ref=f1e250]: Stafford, VA 22556
+            - listitem [ref=f1e251]: Open 7 days · 7am–7pm
+      - generic [ref=f1e252]: © 2026 Amazon Movers. Serving Stafford and the DMV since 1980.
